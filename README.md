@@ -5,7 +5,6 @@ A [VS Code](https://code.visualstudio.com/) extension that pastes editor file co
 ## Usage
 Select a range of text, or don't select any text to copy the entire file, and search for `0x0` in the Command Palette.
 
----
 ## Ports
 * [Sublime Text](https://github.com/axsuul/sublime-0x0)
 
